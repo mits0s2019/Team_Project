@@ -7,7 +7,7 @@ User  : dimitris 1234 bill 1234
 </p>
 
 
-<h3>Languages, Frameworksm , Libraries and APIs :</h3>
+<h3>Languages, Frameworks , Libraries and APIs :</h3>
 
 <h4>Back End : </h4>
 <p>Java,
@@ -35,5 +35,5 @@ MySql
 
 <h4>API:</h4>
 <p>
-  skyscanner ,booking , GeoNames ,
+  skyscanner ,booking , GeoNames
 </p>    
