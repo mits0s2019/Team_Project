@@ -15,15 +15,15 @@ Spring Boot,
 Spring Security,
 Spring Web Sockets,
 JPA/Hibernate,
-JavaServer Pages(JSP),
-Paypal Sandbox
+JavaServer Pages(JSP)
+
 </p>
   
   
 <h4>Front End : </h4>
 <p>HTML/CSS/JavaScript,
 JQuery,
-Bootstrap CSS,
+Bootstrap,
 Font Awsome,
 Animate.js,
 AngularJs
@@ -35,5 +35,5 @@ MySql
 
 <h4>API:</h4>
 <p>
-  skyscanner ,booking , GeoNames
+  skyscanner ,booking , GeoNames,Paypal Sandbox
 </p>    
