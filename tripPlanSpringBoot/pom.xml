@@ -122,7 +122,7 @@
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
             <type>jar</type>
-            <version>9.0.26</version>
+            <version>9.0.41</version>
         </dependency>
 
         <dependency>
